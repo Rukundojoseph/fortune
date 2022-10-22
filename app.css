@@ -6,6 +6,8 @@
 }
 body{
     background-image: url("https://media.istockphoto.com/photos/cement-floor-and-black-wall-backgrounds-empty-room-interior-use-for-picture-id1226232663?b=1&k=20&m=1226232663&s=612x612&w=0&h=M5NYr0Nht80t08bY1OYo7jKP-2vJIuj2iSsw5-uvRRw=") ;
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 lable{
     color: white ;
